@@ -1,6 +1,6 @@
-Olá, sou a Izabel 👋
+Olá, sou a Izabel 🖖🏽
 
-🤓 Atualmente estou estudando Python
+🧑🏿‍💻 Atualmente estou estudando Python
 
  <div>
   <a href="https://github.com/izabelsoares">
