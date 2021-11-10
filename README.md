@@ -1,13 +1,13 @@
 Olá, sou a Izabel 👋
 
-🤓 Atualmente estou estudando ReactJs
+🤓 Atualmente estou estudando Python
 
  <div>
   <a href="https://github.com/izabelsoares">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=izabelsoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izabelsoares&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=izabelsoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izabelsoares&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  <div style="display: block"><br>
+  <div style="display: inline-block"><br>
   <img align="center" alt="izabel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="izabel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="izabel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
